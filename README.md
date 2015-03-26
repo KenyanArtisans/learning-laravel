@@ -8,3 +8,7 @@ In this section, we'll introduce Laravel by building a simple project management
 - Add/Remove Users to a project
 - Allow users to login and see their projects
 - Assign tasks within a project
+
+## Some Tutorials For a Quick Jump Start
+- Virtual Machines and Homestead - <https://www.youtube.com/watch?v=ncdf10moLHg>
+- Laravel 5 Fundamentals - <https://laracasts.com/series/laravel-5-fundamentals>
